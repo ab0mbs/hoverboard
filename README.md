@@ -1,11 +1,12 @@
 hoverboard
 ==========
 
-Update of hoverboard addon for Garry's Mod 13. Not my original work.
-This does not currently work. 
+Update of hoverboard addon for Garry's Mod 13.
+This addon does not currently work. 
 Garry removed player:GetScriptedVehicle() Currently looking into workaround
 
-Credits: 
+Credits:
+ab0mbs - Update to Gmod 13... in progress
 BobYD - Unknown 
 Dav0r - Hackjob model 
 SCopE5000 - Huvaboard model 
