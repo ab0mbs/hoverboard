@@ -1,0 +1,14 @@
+# gitignore file used from wiremod
+# First of all, make sure those pesky SVN folders don't end up on git
+.svn
+
+# Next, ignore all untracked files...
+/*
+
+# ...except the following folders and files in them
+!/data
+!/lua
+!/materials
+!/models
+!/settings
+!/sound
