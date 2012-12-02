@@ -2,9 +2,9 @@
 {
 	"name"			"Hoverboard"
 	"version"		"3.0"
-	"up_date"		"27th February 2008"
-	"author_name"		"% Software"
-	"author_email"		""
-	"author_url"		""
+	"up_date"		"2nd December 2012"
+	"author_name"		"The Leprechaun"
+	"author_email"		"the.leprechaun.server@gmail.com"
+	"author_url"		"http://github.com/ab0mbs/hoverboard"
 	"info"			"Hovering skateboard plus."
 }
